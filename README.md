@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hugo59400)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugo59400&repo=addUserReact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo59400&layout=compact)](https://github.com/hugo59400/github-readme-stats)
+
