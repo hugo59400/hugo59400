@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [IESI](http://iesi-formation.fr/)
-- 📫 How to reach me: [Discord] hugo.coleau#5484 / [Mail] coleau.hugo@gmail.com
+- 📫 How to reach me: Discord :hugo.coleau#5484
 - 💻 I use [VS Code](https://code.visualstudio.com/) the free and complete code editor from Microsoft
 - 🥖 I live and study in Lille (France)
 
