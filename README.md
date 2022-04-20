@@ -10,6 +10,14 @@ Here are some ideas to get you started:
 - 💻 I use [VS Code](https://code.visualstudio.com/) the free and complete code editor from Microsoft
 - 🥖 I live and study in Lille (France)
 
+<p align='center'>
+  <a href=https://www.linkedin.com/in/hugo-coleau/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<!--   <a href="https://twitter.com/emichel_dev"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/e.micheldev/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp; -->
+  <a href="mailto:coleau.hugo@gmail.com"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/envelope-alt.png?raw=true"></a>
+<!--   <a href="https://www.facebook.com/emichdev/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/facebook-f.png?raw=true"></a>&nbsp;&nbsp; -->
+</p>
+
 <details>
     <summary>Details</summary>
    Web developer
