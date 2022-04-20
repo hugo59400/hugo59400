@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugo59400&layout=compact)](https://github.com/hugo59400/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugo59400)](https://github.com/hugo59400/github-readme-stats)
+[![hugo59400's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugo59400)](https://github.com/hugo59400/github-readme-stats)
