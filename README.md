@@ -17,7 +17,9 @@ Here are some ideas to get you started:
 
 
 
-
+<details>
+ ss
+ </detail>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hugo59400)
 
