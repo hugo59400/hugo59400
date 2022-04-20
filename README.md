@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm a frontend developer and technical writer based in France. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, write blogs on Dev.to etc.
+
+💼 Currently working at Frichti
+🔖 Discover my Curriculum Vitae
+✍🏻 I wrote dev articles on dev.to
+📫 Contact me @TrustedSheriff
 ![Github stats](https://github-readme-stats.vercel.app/api?username=hugo59400)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hugo59400&repo=addUserReact)
