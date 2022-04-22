@@ -20,7 +20,7 @@
 </p>
 
 My Personal Websites :
-- (https://movies-trend.netlify.app)
+- https://movies-trend.netlify.app
 -
 -
 -
