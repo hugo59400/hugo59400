@@ -19,10 +19,12 @@
 <!--   <a href="https://www.facebook.com/emichdev/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/facebook-f.png?raw=true"></a>&nbsp;&nbsp; -->
 </p>
 
-<details>
-    <summary>Details</summary>
-   Web developer
-</details>
+My Personal Websites :
+- (https://movies-trend.netlify.app)
+-
+-
+-
+
 
 
 ## 🌍 Programming languages:
