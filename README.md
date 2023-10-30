@@ -4,12 +4,11 @@
 <!-- **hugo59400/hugo59400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  -->
 
-- 🔭 I’m currently working on [IESI](http://iesi-formation.fr/)
+<!-- - 🔭 I’m currently working on [IESI](http://iesi-formation.fr/)  -->
 - 💻 My Portfolio [click here](https://portfolio-hugo59.netlify.app/)
 - 💻 My geography game [click here](https://geographygame.netlify.app/)
 - 📫 How to reach me: Discord :hugo.coleau#5484
 - 💻 I use [VS Code](https://code.visualstudio.com/) the free and complete code editor from Microsoft
-- 🥖 I live and study in Lille (France)
 
 <p align='center'>
   <a href=https://www.linkedin.com/in/hugo-coleau/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
